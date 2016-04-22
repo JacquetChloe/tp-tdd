@@ -8,9 +8,9 @@
 * GREMBER	MAXIME :
 * GUIOT	CLÉMENT :
 * HENNUYER	MARTIN :
-* JACQUET	CHLOÉ :
+* JACQUET	CHLOÉ : https://github.com/JacquetChloe/RomanNumerals.git
 * LAFFILÉ	HUGO : https://github.com/LaffileHugo/RomanNumerals.git
-* LAMBOIS	ALEXIS : https://github.com/AlexisLambois/Tdd.git
+* LAMBOIS	ALEXIS :
 * LAUDE	REMI :
 * LENTINI	LORENZO :
 * LESAGE	DYLAN :
