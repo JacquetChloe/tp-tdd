@@ -2,13 +2,13 @@
 
 * Nom prénom : url
 * BLASZKOWSKI :
-* BRISSET	ADRIEN :https://github.com/Brisseta/TDD.git
+* BRISSET	ADRIEN :
 * DEVASSINE	ALEXANDRE : https://github.com/devassia/TDD.git
 * GRANDJEAN	SYLVAIN :
 * GREMBER	MAXIME :
 * GUIOT	CLÉMENT :
 * HENNUYER	MARTIN :
-* JACQUET	CHLOÉ :
+* JACQUET	CHLOÉ : https://github.com/JacquetChloe/RomanNumerals.git
 * LAFFILÉ	HUGO : https://github.com/LaffileHugo/RomanNumerals.git
 * LAMBOIS	ALEXIS :
 * LAUDE	REMI :
